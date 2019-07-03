@@ -204,7 +204,8 @@ article
 
 article p
 {
-    font-size: 1.8em;
+    font-size: 2em;
+    font-weight: bold;
 }
 
 aside
@@ -216,7 +217,7 @@ aside
     border-radius: 5px;
     padding: 10px;
     color: white;
-    font-size: 1.7em;
+    font-size: 2em;
 }
 
 #fleche_bulle
